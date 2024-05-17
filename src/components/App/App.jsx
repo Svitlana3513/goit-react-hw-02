@@ -15,7 +15,7 @@ export default function App() {
         <div className={css.container}>
             <Description />
             <Options />
-            <Feedback feedback={state}/>
+            
             
         </div>
     )
